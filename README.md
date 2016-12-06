@@ -6,7 +6,7 @@
 
 ## Install
 
-Add `hyperterm-monokai` to the plugins list in your `~/.hyperterm.js` config file.
+Add `hyperterm-monokai` to the plugins list in your `~/.hyper.js` config file.
 
 ## License
 
