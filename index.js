@@ -37,7 +37,6 @@ exports.decorateConfig = (config) => (
       .tab_active:before {
         border-bottom-color: #E6DB74 !important;
       }
-      ::selection { background-color: #999; }
     `
   })
 );
