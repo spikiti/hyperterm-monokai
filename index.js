@@ -26,7 +26,7 @@ exports.decorateConfig = (config) => (
   Object.assign({}, config, {
     backgroundColor,
     foregroundColor,
-    cursorColor: foregroundColor,
+    cursorColor: 'rgba(248, 248, 240, 0.5)',
     colors,
     css: `
       ${config.css || ''}
@@ -37,6 +37,7 @@ exports.decorateConfig = (config) => (
       .tab_active:before {
         border-bottom-color: #E6DB74 !important;
       }
+      ::selection { background-color: #999; }
     `
   })
 );
