@@ -1,6 +1,6 @@
 # hyperterm-monokai
 
-> Monokai theme for [HyperTerm](https://hyperterm.org)
+> Monokai theme for [HyperTerm](https://hyper.is/)
 
 ![](screenshot.png)
 
@@ -10,4 +10,4 @@ Add `hyperterm-monokai` to the plugins list in your `~/.hyper.js` config file.
 
 ## License
 
-MIT © [Badr Chaouai](http://arkhamdev.com)
+MIT
